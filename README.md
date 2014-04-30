@@ -1,4 +1,4 @@
 messaging
 =========
 
-Message oriented middleware named as ZerotQ
+Message oriented middleware named as OptimusMQ and ZerotQ
